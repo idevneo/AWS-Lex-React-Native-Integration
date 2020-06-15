@@ -8,5 +8,5 @@ This bot is very simple and generates a username from a string and number. To pr
 
 Then provide it with a number and the bot returns your new username that is the string you provided combined with the number.
 
-Followed this post to create the bot: 
+Followed this post to create the bare bones bot: 
 https://medium.com/@itsHabib/integrate-an-amazon-lex-chatbot-into-a-react-native-app-1536883ccbed#:~:text=Creating%20the%20Lex%20bot&text=Log%20into%20you%20AWS%20account,output%20voice%20for%20your%20bot.

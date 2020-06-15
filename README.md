@@ -2,7 +2,8 @@
 Using AWS Lex for chatbot integration with a cross platform react native mobile application.
 
 To run this demo first clone the repository.
-Then cd into the project and type 'expo start'. This will open a site where you can choose to demo the app in 3 ways: Android emulator, iOS simulator, or just in the web browser.
+Then cd into the project and type 'expo start'. 
+  This will open a site where you can choose to demo the app in 3 ways: Android emulator, iOS simulator, or just in the web     browser.
 
 This bot is very simple and generates a username from a string and number. To prompt the bot run type any of the following commands: create my username, create username, create a username, make my username, make username, make a username. 
 
